@@ -19,6 +19,10 @@ $ npx nbfontana
 - [ink](https://github.com/vadimdemedes/ink) - React for interactive command-line apps
 
 
+## Inspired by
+
+[The Sindre Sorhus CLI](https://github.com/sindresorhus/sindresorhus)
+
 ## License
 
 MIT © Neri Bez Fontana
