@@ -23,7 +23,7 @@ const items = [
     url: 'https://github.com/nbfontana'
   },
   {
-    label: 'LinkeIn',
+    label: 'LinkedIn',
     url: 'https://www.linkedin.com/in/nbfontana'
   },
   {
