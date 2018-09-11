@@ -10,6 +10,7 @@
 Install Node.js, then:
 
 ```
+$ npm i -g nbfontana
 $ npx nbfontana
 ```
 
