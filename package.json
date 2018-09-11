@@ -3,6 +3,9 @@
  "version": "2.0.0",
  "description": "Neri Bez Fontana personal CLI",
  "repository": "nbfontana/nbfontana",
+ "bin": {
+  "nbfontana": "src/cli.js"
+ },
  "author": {
   "name": "Neri Bez Fontana",
   "email": "nerifontana@gmail.com"
